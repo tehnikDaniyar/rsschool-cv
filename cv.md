@@ -9,7 +9,8 @@
 - GitHub: [tehnikDaniyar](https://github.com/tehnikDaniyar) 
 --------------------------------------------------
 ## about me
-I am 39 years old. I currently work as a security and video surveillance engineer. And although I have over 20 years of experience, I want to change my profession to a front-end developer. I completed the stage0 course on the RS School platform.
+I am 39 years old. I currently work as a security and video surveillance engineer. And although I have over 20 years of experience, I want to change my profession to a front-end developer. I completed the stage0 course on the RS School platform. 
+I spent a year and a half independently studying the frontend, made many one-page landings and one project on react using the state manager Redux (online cinema website)
 ## skils
 - HTML
 - CSS
